@@ -76,14 +76,14 @@ const Ricardo = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=resper1965&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resper1965&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=resper1965&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ade8&icon_color=00ade8&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resper1965&layout=compact&theme=dark&bg_color=0d1117&title_color=00ade8&text_color=c9d1d9&border_color=30363d&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=resper1965&theme=dark&background=0d1117&border=30363d&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=resper1965&theme=dark&background=0d1117&border=30363d&ring=00ade8&fire=ff6e6e&currStreakLabel=00ade8)
 
 </div>
 
