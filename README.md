@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ricardo%20Esper&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Cloud%20%7C%20Compliance&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ricardo%20Esper&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CEO%20Ness%20%7C%20Board%20Bekaa%20%7C%20CISO%20Ionic%20Health&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
@@ -16,7 +16,12 @@
 
 ```typescript
 const Ricardo = {
-  role:     "Founder & Principal Advisor @ Bekaa Trusted Advisors",
+  roles:    [
+    "Founder & Principal Advisor @ Bekaa Trusted Advisors",
+    "Board Member @ Bekaa Trusted Advisors",
+    "CEO @ Ness",
+    "CISO @ Ionic Health"
+  ],
   location: "São Paulo, SP 🇧🇷",
   focus:    ["Cybersecurity", "Cloud Security", "Privacy & Compliance", "ISMS"],
   certs:    ["ISO 27001", "AWS", "LGPD/DPO"],
