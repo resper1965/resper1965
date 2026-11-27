@@ -70,16 +70,6 @@ Desenvolvidas e operadas pela NESS:
 
 </div>
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=resper1965&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ade8&icon_color=00ade8&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true" />
-<img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resper1965&layout=compact&theme=dark&bg_color=0d1117&title_color=00ade8&text_color=c9d1d9&border_color=30363d&langs_count=6" />
-
-</div>
 
 <div align="center">
 
