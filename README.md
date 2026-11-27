@@ -33,10 +33,21 @@ Site: [ricardoesper.com.br](https://www.ricardoesper.com.br)
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Soluções
 
-| Projeto | Descrição | Stack |
-|---------|-------------|-------|
+Desenvolvidas e operadas pela NESS:
+
+| Solução | O que entrega |
+|---------|---------------|
+| **n.secops** | Operações de segurança (SOC) e consultoria contínua de cibersegurança, como serviço recorrente |
+| **n.360** | Plataforma única de GRC: políticas, riscos, terceiros e conformidade em um só lugar |
+| **n.iso** | Adequação e gestão de SGSI e PIMS: ISO/IEC 27001 e 27701 |
+| **n.privacy** | Privacidade e proteção de dados: LGPD, GDPR e ISO/IEC 27701 |
+| **n.phish** | Simulação de phishing e conscientização |
+| [**forense.io**](https://forense.io) | Perícia e investigação digital |
+| [**trustness.**](https://trustness.com.br) | Governança, risco, compliance e privacidade |
+
+---------|-------------|-------|
 | [**Aegis ITSM**](https://github.com/resper1965/aegis-itms) | Plataforma de gestão de serviços de TI | TypeScript, Python, PostgreSQL |
 | [**Aegis Compliance**](https://github.com/resper1965/aegis.compliance) | Plataforma de inteligência de conformidade (SCF) | TypeScript, Python |
 | [**NessSOC**](https://github.com/resper1965/nessSOC) | Painel de centro de operações de segurança | Vue, TypeScript, Python |
