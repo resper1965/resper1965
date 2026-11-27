@@ -47,14 +47,6 @@ Desenvolvidas e operadas pela NESS:
 | [**forense.io**](https://forense.io) | Perícia e investigação digital |
 | [**trustness.**](https://trustness.com.br) | Governança, risco, compliance e privacidade |
 
----------|-------------|-------|
-| [**Aegis ITSM**](https://github.com/resper1965/aegis-itms) | Plataforma de gestão de serviços de TI | TypeScript, Python, PostgreSQL |
-| [**Aegis Compliance**](https://github.com/resper1965/aegis.compliance) | Plataforma de inteligência de conformidade (SCF) | TypeScript, Python |
-| [**NessSOC**](https://github.com/resper1965/nessSOC) | Painel de centro de operações de segurança | Vue, TypeScript, Python |
-| [**CyberGame**](https://github.com/resper1965/CyberGame) | Treinamento gamificado em cibersegurança | TypeScript, Python |
-| [**Canal SaaS**](https://github.com/resper1965/canal-saas) | Plataforma SaaS de canais | TypeScript, Python |
-| [**Bekaa Site**](https://github.com/resper1965/bekaa-site) | Site institucional da Bekaa Trusted Advisors | TypeScript, CSS |
-
 ---
 
 ## 🧰 Tecnologias
