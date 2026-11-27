@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ricardo%20Esper&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CEO%20ness.%20%7C%20Board%20Bekaa%20%7C%20CISO%20Ionic%20Health&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ricardo%20Esper&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CEO%20da%20NESS%20%C2%B7%20CISO%20e%20cofundador%20da%20IONIC%20Health&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo%20Esper-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/resper)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo%20Esper-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoesper)
 [![Bekaa](https://img.shields.io/badge/Bekaa-Trusted%20Advisors-2c5364?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white)](https://bekaa.eu)
 [![Email](https://img.shields.io/badge/Email-resper%40bekaa.eu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:resper@bekaa.eu)
 
@@ -12,32 +12,23 @@
 
 ---
 
-## 👤 About Me
+## 👤 Sobre
 
-```typescript
-const Ricardo = {
-  roles:    [
-    "Founder & Principal Advisor @ Bekaa Trusted Advisors",
-    "Board Member @ Bekaa Trusted Advisors",
-    "CEO @ ness.",
-    "CISO @ Ionic Health"
-  ],
-  location: "São Paulo, SP 🇧🇷",
-  focus:    ["Cybersecurity", "Cloud Security", "Privacy & Compliance", "ISMS"],
-  certs:    ["ISO 27001", "AWS", "LGPD/DPO"],
-  building: ["Aegis ITSM", "Aegis Compliance", "NessSOC", "CyberGame"],
-  contact:  "resper@bekaa.eu | +55 11 98339-7196"
-};
-```
+**Executivo e conselheiro em governança de IA, cibersegurança e privacidade.**
+CEO da NESS · CISO e cofundador da IONIC Health.
+
+Em tecnologia desde 1985 e à frente da NESS desde 1991. Auditor Líder ISO/IEC 27001:2022 e ISO/IEC 27701:2025, CCISO, CEH e CHFI.
+
+Site: [ricardoesper.com.br](https://www.ricardoesper.com.br)
 
 ---
 
-## 🛡️ What I Do
+## 🛡️ O que faço
 
-- 🔐 **Cybersecurity Advisory** — Pentest, SOC, threat modeling, incident response
-- ☁️ **Cloud Security** — AWS architecture review, FTR/WAF certification
-- 📋 **Compliance & Privacy** — ISO 27001, LGPD, SCF framework, DPO as a service
-- 🏗️ **Product Development** — Building security-first SaaS platforms
+- 🤖 **Governança de IA** para conselhos e diretorias: ISO/IEC 42001, AI Act
+- 🔐 **Governança de cibersegurança** e reporte ao conselho
+- 📋 **Privacidade e compliance internacional**
+- 🚨 **Coordenação de crise cibernética**: uma versão dos fatos e uma ordem de decisões, das primeiras horas à retomada
 
 ---
 
