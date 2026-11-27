@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ricardo%20Esper&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CEO%20da%20NESS%20%C2%B7%20CISO%20e%20cofundador%20da%20IONIC%20Health&descAlignY=58&descSize=18" width="100%"/>
+<img alt="Ricardo Esper" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ricardo%20Esper&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CEO%20da%20NESS%20%C2%B7%20CISO%20e%20cofundador%20da%20IONIC%20Health&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo%20Esper-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoesper)
-[![Bekaa](https://img.shields.io/badge/Bekaa-Trusted%20Advisors-2c5364?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white)](https://bekaa.eu)
-[![Email](https://img.shields.io/badge/Email-resper%40bekaa.eu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:resper@bekaa.eu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo%20Esper-2c5364?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoesper)
+[![Bekaa](https://img.shields.io/badge/Bekaa-Trusted%20Advisors-2c5364?style=for-the-badge&logoColor=white)](https://bekaa.eu)
+[![Email](https://img.shields.io/badge/Email-resper%40bekaa.eu-2c5364?style=for-the-badge&logo=gmail&logoColor=white)](mailto:resper@bekaa.eu)
 
 </div>
 
@@ -15,6 +15,7 @@
 ## 👤 Sobre
 
 **Executivo e conselheiro em governança de IA, cibersegurança e privacidade.**
+
 CEO da NESS · CISO e cofundador da IONIC Health.
 
 Em tecnologia desde 1985 e à frente da NESS desde 1991. Auditor Líder ISO/IEC 27001:2022 e ISO/IEC 27701:2025, CCISO, CEH e CHFI.
@@ -32,20 +33,20 @@ Site: [ricardoesper.com.br](https://www.ricardoesper.com.br)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projetos em destaque
 
-| Project | Description | Stack |
+| Projeto | Descrição | Stack |
 |---------|-------------|-------|
-| [**Aegis ITSM**](https://github.com/resper1965/aegis-itms) | IT Service Management platform | TypeScript, Python, PostgreSQL |
-| [**Aegis Compliance**](https://github.com/resper1965/aegis.compliance) | Compliance Intelligence Platform (SCF) | TypeScript, Python |
-| [**NessSOC**](https://github.com/resper1965/nessSOC) | Security Operations Center dashboard | Vue, TypeScript, Python |
-| [**CyberGame**](https://github.com/resper1965/CyberGame) | Gamified cybersecurity training | TypeScript, Python |
-| [**Canal SaaS**](https://github.com/resper1965/canal-saas) | SaaS channel platform | TypeScript, Python |
-| [**Bekaa Site**](https://github.com/resper1965/bekaa-site) | Bekaa Trusted Advisors landing page | TypeScript, CSS |
+| [**Aegis ITSM**](https://github.com/resper1965/aegis-itms) | Plataforma de gestão de serviços de TI | TypeScript, Python, PostgreSQL |
+| [**Aegis Compliance**](https://github.com/resper1965/aegis.compliance) | Plataforma de inteligência de conformidade (SCF) | TypeScript, Python |
+| [**NessSOC**](https://github.com/resper1965/nessSOC) | Painel de centro de operações de segurança | Vue, TypeScript, Python |
+| [**CyberGame**](https://github.com/resper1965/CyberGame) | Treinamento gamificado em cibersegurança | TypeScript, Python |
+| [**Canal SaaS**](https://github.com/resper1965/canal-saas) | Plataforma SaaS de canais | TypeScript, Python |
+| [**Bekaa Site**](https://github.com/resper1965/bekaa-site) | Site institucional da Bekaa Trusted Advisors | TypeScript, CSS |
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tecnologias
 
 <div align="center">
 
@@ -61,19 +62,19 @@ Site: [ricardoesper.com.br](https://www.ricardoesper.com.br)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ![ISO 27001](https://img.shields.io/badge/ISO%2027001-005571?style=flat-square&logo=iso&logoColor=white)
-![LGPD](https://img.shields.io/badge/LGPD%2FDPO-009688?style=flat-square&logo=security&logoColor=white)
+![LGPD](https://img.shields.io/badge/LGPD-009688?style=flat-square&logo=security&logoColor=white)
 ![SCF](https://img.shields.io/badge/SCF%20Framework-6A0DAD?style=flat-square&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=resper1965&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ade8&icon_color=00ade8&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resper1965&layout=compact&theme=dark&bg_color=0d1117&title_color=00ade8&text_color=c9d1d9&border_color=30363d&langs_count=6" />
+<img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=resper1965&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ade8&icon_color=00ade8&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true" />
+<img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resper1965&layout=compact&theme=dark&bg_color=0d1117&title_color=00ade8&text_color=c9d1d9&border_color=30363d&langs_count=6" />
 
 </div>
 
